@@ -3,17 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "5f1c929b-93c1-4402-82dd-babc1b020d5f",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "pip install pandas\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "53139af2-9137-40e0-b4cd-99b4bcac1951",
+   "id": "c96bdac0-2ad7-4f03-85ac-80e97ded631d",
    "metadata": {},
    "outputs": [],
    "source": []
