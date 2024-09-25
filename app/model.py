@@ -2,7 +2,7 @@ import joblib
 import numpy as np
 
 # Load the model once when the app starts
-model_pipeline = joblib.load('../notebooks/model_24-09-2024-01-59-46.pkl')
+model_pipeline = joblib.load('./notebooks/model_24-09-2024-01-59-46.pkl')
 
 def predict(input_data):
     # Ensure input data is a numpy array and reshape if needed
